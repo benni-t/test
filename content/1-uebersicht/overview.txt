@@ -1,0 +1,227 @@
+Title: Übersicht
+
+----
+
+Overviewbanner: start-background.jpg
+
+----
+
+Bannertexth1: Design studieren an der<br>HfG Schwäbisch Gmünd
+
+----
+
+Bannertexth5: 
+
+----
+
+Einleitungphead: 
+
+----
+
+Introhead: Vielfältig.
+
+----
+
+Introtext: Was ist gutes Design? Mit guter Gestaltung und sinnvollem Design lösen wir Alltags- und Zukunftsprobleme. An der HfG Schwäbisch Gmünd geht es uns deshalb nicht darum, die Welt zu verschönern. Die HfG Schwäbisch Gmünd ist die einzige Hochschule der Angewandten Wissenschaften, die ausschließlich auf Gestaltung spezialisiert ist. Das heißt, die ganze Hochschule ist mit Werkstätten, Laboren oder Film- und Fotostudios auf unsere Bedürfnisse ausgerichtet.
+
+----
+
+Majors: 
+
+- 
+  title: '<h3 class="color-kg">Kommunikationsgestalterinnen</h3>'
+  text: '<b>→ KommunikationsgestalterInnen</b> machen komplexe Themen sichtbar.'
+- 
+  title: '<h3 class="color-ig">Interaktionsgestalter</h3>'
+  text: 'Der Studiengang <b>→ Internet der Dinge</b> setzt neue Technologien praxisnah um'
+- 
+  title: '<h3 class="color-pg">Produktgestalterinnen</h3>'
+  text: '<b>→ InteraktionsgestalterInnen</b> entwickeln digitale Produkte und Services.'
+- 
+  title: '<h3 class="color-iot">Internet of Things</h3>'
+  text: '<b>→ ProduktgestalterInnen</b> entwerfen Objekte und konzipieren Handlungsabläufe'
+- 
+  text: 'Das Masterprogramm <b>→ Strategische Gestaltung</b> basiert auf Gestaltung, Management und Forschung'
+
+----
+
+Hfgphead: 
+
+----
+
+Hfgcontainerimage: start-hfg.jpg
+
+----
+
+Hfghead: # Eine Hochschule, <br>an der man sich kennt
+
+----
+
+Hfgtext1: 
+
+## Warum die HfG:
+Uci odi dolupti optatur, impos mi, sam facimporeic to blam, auda cusaerum laborerrum elibus vit volecepel ium fugite laboriam repe sint harchil ma plicim quam et esequi officit voluptu remporum rem fugias aboribu samusam alibus di quidebitia consecabo. Itati videllabo. Nihicia voluptatur.
+
+----
+
+Hfgtext2: 
+
+## Schwäbisch Was?!
+Uci odi dolupti optatur, impos mi, sam facimporeic to blam, auda cusaerum labaorerrum elibus vit volecepel ium fugite laboriam repe sint harchil ma plicim quam et esequi officit voluptu remporum rem fugias aboribu samusam alibus di quidebitia consecabo. Itati videllabo. Nihicia voluptatur. Obit invel id mo ium, suntet qui dis ea pro molessimil inient, ut quas rem.
+
+----
+
+Hfgbubbleimage: start-bubble.png
+
+----
+
+Hfggallery: 
+
+- start-hfg1.jpg
+- start-hfg2.jpg
+
+----
+
+Ausstattungphead: 
+
+----
+
+Ausstattungcontainerimage: start-topausgestattet.jpg
+
+----
+
+Ausstattunghead: Top ausgestattet.
+
+----
+
+Ausstattungtext: Uci odi dolupti optatur, impos mi, sam facimporeic to blam, auda cusaerum laborerrum elibus vit volecepel ium fugite laboriam repe sint harchil ma plicim quam et esequi officit voluptu remporum rem fugias aboribu samusam alibus di quidebitia consecabo. Itati videllabo. Nihicia voluptatur.
+
+----
+
+Ausstattunggallery: 
+
+- start-topausstattung1.jpg
+- start-topausstattung2.jpg
+- start-topausstattung3.jpg
+- start-topausstattung4.jpg
+
+----
+
+Engagiertphead: 
+
+----
+
+Engagiertcontainerimage: start-engagiert.jpg
+
+----
+
+Engagierthead: Engagiert.
+
+----
+
+Engagierttext: Uci odi dolupti optatur, impos mi, sam facimporeic to blam, auda cusaerum laborerrum elibus vit volecepel ium fugite laboriam repe sint harchil ma plicim quam et esequi officit voluptu remporum rem fugias aboribu samusam alibus di quidebitia consecabo. Itati videllabo. Nihicia voluptatur.
+
+----
+
+Engagiertgallery: 
+
+- start-carousel1.jpg
+- start-carousel2.jpg
+- start-carousel3.jpg
+
+----
+
+Fragenphead: 
+
+----
+
+Fragencontainerimage: start-nochfragen.jpg
+
+----
+
+Fragenbubbleimage: start-nochfragen-bubble.png
+
+----
+
+Fragenbewerbenimage: start-bewirbdich.jpg
+
+----
+
+Fragenbuttontext: → Bewirb Dich!
+
+----
+
+Introtext1: Was ist gutes Design? Mit guter Gestaltung und sinnvollem Design lösen wir Alltags- und Zukunftsprobleme. An der HfG Schwäbisch Gmünd geht es uns deshalb nicht darum, die Welt zu verschönern. Die HfG Schwäbisch Gmünd ist die einzige Hochschule der Angewandten Wissenschaften, die ausschließlich auf Gestaltung spezialisiert ist. Das heißt, die ganze Hochschule ist mit Werkstätten, Laboren oder Film- und Fotostudios auf unsere Bedürfnisse ausgerichtet.
+
+----
+
+Hfgtext: Schau bei der Erstsemesterbegrüßung nach links und rechts. Dann siehst du, mit dem du in sieben Semestern deinen Abschluss feierst. Bei uns ist die Abbruchquote niedrig und xx % machen ihren Abschluss in Regelstudienzeit. Dank Hochschulgröße und Betreuung. Genauso, wie wir uns untereinander kennen, so kennen uns auch die Professoren und Dozenten. Der Umgangston ist locker und das Du ist normal.
+
+----
+
+Hfggallery1: 
+
+- start-hfg1.jpg
+- start-hfg2.jpg
+
+----
+
+Hfggallery2: - start-carousel2.jpg
+
+----
+
+Hfgbild: 
+
+(image: start-carousel2.jpg width: 100%)
+**Von Schwäbisch Gmünd
+in die Welt und zurück**
+Bei allen Bachelorstudiengängen ist ein Auslandssemester möglich – das nehmen auch xx% der HfGler in Anspruch. Im Sommersemester findet die Internationale Seminarwoche mit Dozenten aus der ganzen Welt auf Englisch statt. Regelmäßig geht es auf die Mailänder Möbelmesse, nach Frankreich oder zu Kooperationspartnern ins Ausland. Und wenn dir das noch nicht genug Internationalität ist, dann komm ins VS-Erasmus-Team.
+
+----
+
+Hfgbubble: <span class="bubble"><span class="bubble-out"></span>Leidenschaftlich, rational und verantwortungsvoll. Das ist das Gmünder Modell. Richtungsweisend sind für uns das Bauhaus und die HfG Ulm. In der Ausbildung richten wir den Blick auf die kommenden Anforderungen an Designerinnen.</span>
+
+----
+
+Fragenhead: # … und Schwäbisch Gmünd?
+
+----
+
+Fragentext: 
+
+Klar, Gmünd ist nicht Berlin. Und nicht Köln. Oder könntest du dir in Köln oder Berlin ein Zimmer mit Dachterrasse leisten? Am historischen Marktplatz und nur 10 Minuten von der Hochschule entfernt?
+ Wahrscheinlich nicht!
+
+Schwäbisch Gmünd hat nicht nur günstige Mieten, sondern ist auch die heimliche Designhauptstadt Deutschlands. Bei uns konzentrierst dich in einer wirtschaftsstarken Region mit toller Landschaft auf das Studium. Trotzdem hast du die Möglichkeit, gut bezahlte Studentenjobs in der Gestaltungsbranche und in der Industrie zu finden. Und wenn es dich in eine größere Stadt zieht: Stuttgart ist nur 30 Minuten entfernt.
+
+Worauf wartest du also, schau Dir unsere Studiengänge an …
+
+----
+
+Fragengallery: 
+
+- start-fragen-ig.jpg
+- start-fragen-iot.jpg
+- start-fragen-kg.jpg
+- start-fragen-pg.jpg
+- start-fragen-sg.jpg
+
+----
+
+Fragenstudiengaenge: 
+
+- 
+  image: start-fragen-kg.jpg
+  text: '<b class="color-kg">→ Kommunikationsgestaltung</b>'
+- 
+  image: start-fragen-ig.jpg
+  text: '<b class="color-ig">→ Interaktionsgestaltung</b>'
+- 
+  image: start-fragen-pg.jpg
+  text: '<b class="color-pg">→ Produktgestaltung</b>'
+- 
+  image: start-fragen-iot.jpg
+  text: '<b class="color-iot">→ Internet der Dinge</b>'
+- 
+  image: start-fragen-sg.jpg
+  text: '<b class="color-sg">→ Strategische Gestaltung MA</b>'

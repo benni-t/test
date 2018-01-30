@@ -1,0 +1,416 @@
+Title: Bewerbung
+
+----
+
+Overviewbanner: apply-background.jpg
+
+----
+
+Bannertexth1: Bewerbung und Beratung
+
+----
+
+Bannertexth5: Alles zur Bewerbung an der HfG Schwäbisch Gmünd
+
+----
+
+Introhead: Tolles Angebot.
+
+----
+
+Introtext: Egal ob zwei Stunden, einen ganzen Tag oder eine Woche. Du hast die Wahl, wie lange du die HfG vor deinem Studium kennenlernen möchtest. Wir bieten regelmäßig Beratungs- und Infotermine an. Und wenn mal gar kein Termin passen sollte, dann setz dich mit dem Studierendensekretariat oder den akademischen Mitarbeitern in Verbindung.
+
+----
+
+Majors: 
+
+- 
+  title: '<h3 class="color-kg">Kommunikationsgestalterinnen</h3>'
+  text: machen komplexe Themen sichtbar.
+- 
+  title: '<h3 class="color-ig">Interaktionsgestalter</h3>'
+  text: >
+    entwickeln digitale Produkte und
+    Services.
+- 
+  title: '<h3 class="color-pg">Produktgestalterinnen</h3>'
+  text: >
+    entwerfen Objekte und konzipieren
+    Handlungsabläufe.
+- 
+  title: '<h3 class="color-iot">Internet of Things</h3>'
+  text: >
+    werden neue Technologien praxisnah
+    eingesetzt.
+
+----
+
+Infoscontainerimage: apply-komm.jpg
+
+----
+
+Infoshead: Wann? Was? Wie?
+
+----
+
+Infostext: Aufgepasst! In nur fünf Schritten bewirbst du dich für einen Bachelorstudienplatz an der HfG Schwäbisch Gmünd.
+
+----
+
+Infosheadberatung: ## Beratung
+
+----
+
+Infosberatung: Hier können alle Interessierten ihre Fragen zur Aufnahme an der Hochschule klären und sich Anregungen für ein gelungenes Bewerbungsverfahren von den Lehrenden und Studierenden der HfG holen. Die Lehrenden erklären, worauf es bei der Bewerbung und der einzureichenden Mappe ankommt. Ohne Anmeldung.
+
+----
+
+Infosopen: 
+
+**Wann?**
+Mittwoch, den 21. März 2018, 15 Uhr
+Mittwoch, den 28. März 2018, 15 Uhr
+
+**Wo?**
+HfG Schwäbisch Gmünd
+Bahnhofplatz 7
+73525 Schwäbisch Gmünd
+
+----
+
+Hfgbubbleimage: 
+
+----
+
+Infosmessen: 
+
+**Studienmessen**
+
+**Duciaturero exped quia simpero**
+reperatiam evellab oriatecus
+
+**enditia tempos simolorio etum**
+fugita con et autatenem re
+
+**nonem explam, aut officium nulla**
+inimus ex esto odiore, consedisquam
+
+----
+
+Infobubbleimage: apply-kommbubble.png
+
+----
+
+Infosheadstudiennfotag: ## Studieninfotag
+
+----
+
+Infosstudiennfotag: 
+
+Der Studieninfotag startet um 9 Uhr am Neubau am Bahnhof der HfG, Bahnhofplatz 7, und endet um 16 Uhr im Hauptgebäude der HfG in der Rektor-Klaus-Str. 100. 
+
+Nach einer Begrüßung und Präsentation der Hochschule und der Bachelorfächer findet im Foyer eine Informationsbörse rund um das Studium an der HfG statt. Anschließend bieten wir Führungen durch die Foto-, Film und Tonstudios der Hochschule an. Von 12 bis 13 Uhr steht für das Mittagessen unsere Mensa zur Verfügung. Anschließend lernt ihr unsere Werkstätten und Medienlabore kennen und verbringt den Nachmittag bis 16 Uhr in den Workshops.
+
+----
+
+Verfahrencontainerimage: apply-verfahren.jpg
+
+----
+
+Verfahrenhead: Wie? Wann? Was?
+
+----
+
+Verfahrentext: Uci odi dolupti optatur, impos mi, sam facimporeic to blam, auda cusaerum laborerrum elibus vit volecepel ium fugite laboriam repe sint harchil ma plicim quam et esequi officit voluptu remporum rem fugias aboribu samusam alibus di quidebitia consecabo. Itati videllabo. Nihicia voluptatur.
+
+----
+
+Verfahrenwannhead: ## Wann?
+
+----
+
+Verfahrenwanntext: 
+
+**Bewerbungsfristen** für die Bachelor-Studiengänge
+
+Interaktionsgestaltung, Kommunikationsgestaltung,
+Produktgestaltung und Internet der Dinge
+
+**jeweils der 15. Mai für das Wintersemester
+jeweils der 15. November für das Sommersemester**
+
+----
+
+Verfahrenpruefung: 
+
+**Eignungsprüfung** der Bachelor-Studiengänge Interaktionsgestaltung, Kommunikationsgestaltung, Produktgestaltung und Internet der Dinge
+**Mittwoch, den 06.12.2017**
+
+Nach erfolgreicher Einreichung der Bewerbungsunterlagen (Details siehe hier) werden die BewerberInnen per Post über den Ablauf der Eignungsprüfung der Bacherlor-Studiengänge informiert.
+
+Zu beachten: Erst zur Eignungsprüfung müssen sowohl die Mappe (Kommunikations- und Produktgestaltung) als auch die bearbeitete Hausaufgabe (alle Bachelor-Studiengänge) mitgebracht werden.
+
+----
+
+Verfahrenbubbleimage: apply-verfahrenbubble.png
+
+----
+
+Verfahrenwastext: 
+
+## Was?
+
+**1. Bewerbungsbogen**
+**2. Zeugnis über die Hochschulzugangsberechtigung** (beglaubigte Kopie oder Abschrift)
+**3. Lebenslauf**
+**4. Schriftlicher Nachweis** über die Teilnahme an einem **Studienorientierungsverfahren**
+**5. Nachweise über fachbezogene praktische Tätigkeiten**, sofern solche vorliegen
+**6. Ein Passbild**
+
+**Unterlagen für den Tag der Eignungsprüfung**
+
+**Kommunikationsgestaltung und Produktgestaltung**
+
+**1. 12 bis 15 selbstgefertigte Arbeitsproben**. Nur Originale (keine Kopien), jeweils beschriftet
+mit deutlich lesbarem Namen und Entstehungsdatum.
+**2. Die bearbeitete Hausaufgabe**, die von der Hochschule gestellt wurde.
+**3. Eine Erklärung**, dass die vorgelegten Arbeitsproben und die bearbeitete Hausaufgabe vom
+Bewerber selbstständig gefertigt wurden.
+
+----
+
+Infosstudiennfotagkontakt: 
+
+**Wann?**
+Mittwoch, den 22. November 2017
+
+**Wo?**
+HfG Schwäbisch Gmünd
+Bahnhofplatz 7
+73525 Schwäbisch Gmünd
+
+**Anmeldung** mit Name, Schule und Klasse an
+**pressestelle@hfg-gmuend.de**
+
+----
+
+Mappecontainerimage: apply-mappe.jpg
+
+----
+
+Mappetext: 
+
+**Details zur Mappe / Hausaufgabe**
+• Mappen müssen mit Namen und Anschrift versehen werden.
+• Mappenaufbau: Inhaltsverzeichnis, Hausaufgabe, ggf. Arbeitsproben
+• Flächige Arbeiten dürfen nicht gerollt werden.
+• Digitale Arbeiten müssen auf CD-ROM/DVD und gedruckt beiliegen.
+
+**Abgabe der erforderlichen Bewerbungsunterlagen**
+Die erforderlichen Bewerbungsunterlagen müssen bis zur Bewerbungsfrist (Aussschlussfrist) im Studierendensekretariat eingegangen sein.
+
+----
+
+Mappeanschrift: 
+
+**HfG Schwäbisch Gmünd**
+Studierendensekretariat
+Rektor-Klaus-Str. 100
+73525 Schwäbisch Gmünd
+
+**Öffnungszeiten**
+Montag-Freitag 9:00 bis 12:00 Uhr
+Mittwoch 14:30 bis 15:30 Uhr
+
+----
+
+Mappevorpraktikum: 
+
+## Vorpraktikum
+
+Ein Vorpraktikum wird empfohlen, da es Ihnen einen guten Einblick in das angestrebte Berufsfeld geben kann, ein Vorpraktikum ist aber keine Voraussetzung um das Studium an der Hochschule aufnehmen zu können. Bei Vorlage von Zeugnissen, die praktische fachbezogene Tätigkeiten vor der Bewerbung betreffen, können diese im Aufnahmeverfahren mitberücksichtigt werden. Sind solche Zeugnisse nicht vorhanden, entsteht Ihnen im Aufnahmeverfahren kein Nachteil.
+
+----
+
+Mappebubbleimage: apply-mappebubble.png
+
+----
+
+Mappehead: ## Wie?
+
+----
+
+Einblickcontainerimage: apply-einblick.jpg
+
+----
+
+Einblickhead: Der beste Einblick.
+
+----
+
+Einblicktext: Uci odi dolupti optatur, impos mi, sam facimporeic to blam, auda cusaerum laborerrum elibus vit volecepel ium fugite laboriam repe sint harchil ma plicim quam et esequi officit voluptu remporum rem fugias aboribu samusam alibus di quidebitia consecabo. Itati videllabo. Nihicia voluptatur.
+
+----
+
+Einblickgallery: 
+
+- apply-einblick-1.jpg
+- apply-einblick-2.jpg
+- apply-einblick-3.jpg
+- apply-einblick-4.jpg
+
+----
+
+Einblickfragen: Noch Fragen?
+
+----
+
+Einblickfragentext: Uci odi dolupti optatur, impos mi, sam facimporeic to blam, auda cusaerum laborerrum elibus vit volecepel ium fugite laboriam repe sint harchil ma plicim quam et esequi officit voluptu remporum rem fugias aboribu samusam alibus di quidebitia consecabo. Itati videllabo. Nihicia voluptatur.
+
+----
+
+Einblickfragenkontakt: 
+
+**Anka** 012345678 anka.spoerl@hfg-gmuend.de
+**Bernhard** 012345678 anka.spoerl@hfg-gmuend.de
+**Hannah** 012345678 anka.spoerl@hfg-gmuend.de
+**Bianca** 012345678 anka.spoerl@hfg-gmuend.de
+
+----
+
+Einblickfragenhead: Noch Fragen?
+
+----
+
+Introtext1: 
+
+**Mappen- und Studienberatung**
+Hier könnt ihr alle Fragen zur Aufnahme an der Hochschule klären und euch Anregungen für ein gelungenes Bewerbungsverfahren holen. Wer schon Arbeiten für die Mappe hat, kann diese einfach mitbringen.
+<br>Termine: 21. und 28. März 2018, jeweils 15 Uhr
+<br>Dauer: ca 2 – 3 Stunden.
+<br>Ohne Anmeldung.
+<br>HfG Schwäbisch Gmünd
+Bahnhofplatz 7
+73525 Schwäbisch Gmünd
+
+----
+
+Introtext2: 
+
+**Weitere Infotage**
+Natürlich nehmen wir auch beim ganztätigen Studieninformationstag am 21. November 2018 und am Girls Day am 26. April 2018 teil. Mit Anmeldung.
+
+**Schnupperstudium**
+Eine Woche Gestaltung an der HfG studieren? Und alle Bachelorfächer, Professoren und Studenten kennenlernen? Kein Problem beim Schnupperstudium Design Campus. Mit Anmeldung.
+
+----
+
+Schrittecontainerimage: apply-komm.jpg
+
+----
+
+Schrittehead: # Wann? Was? Wie?
+
+----
+
+Schrittetext: Aufgepasst! In nur fünf Schritten bewirbst du dich für einen Bachelorstudienplatz an der HfG Schwäbisch Gmünd.
+
+----
+
+Schrittenummer1-1: 
+
+Bis zum Bewerbungsschluss am 15. Mai bzw. 15. November musst du folgende Unterlagen bei uns per Post oder persönlich einreichen:<br>
+– Bewerbungsbogen<br>
+– Zeugnis über die Hochschulzugangsberechtigung (beglaubigte Kopie oder Abschrift)<br>
+– Lebenslauf<br>
+– Schriftlicher Nachweis über die Teilnahme an einem Studienorientierungsverfahren (Bei jeder Studienberatung erhältst du einen Nachweis über deine Teilnahme, den du zur Bewerbung einreichen kannst)<br>
+– Nachweise über fachbezogene praktische Tätigkeiten, sofern solche vorliegen und berücksichtigt werden sollen<br>
+– ein Passbild
+
+----
+
+Schrittenummer1-2: 
+
+Hochschule für Gestaltung Schwäbisch Gmünd
+Studierendensekretariat
+Rektor-Klaus-Str. 100
+73525 Schwäbisch Gmünd
+
+Nach Einreichung der Bewerbungsunterlagen werdet ihr per Post über den Ablauf der Eignungsprüfung der Bachelor-Studiengänge informiert. Im Gegensatz zu anderen Hochschulen laden wir alle BewerberInnen, die die Eingangsvoraussetzungen erfüllen, auch zur Eignungsprüfung ein, denn wir wollen nicht nur die Mappe kennenlernen, sondern den Menschen, der dahinter steht.
+
+----
+
+Schrittenummer1-1head: # 1. Titel?
+
+----
+
+Schrittenummer1head: # 1. Titel?
+
+----
+
+Schrittenummer2-2: Die Hausaufgabe bezieht sich bereits auf euren Studiengang.
+
+----
+
+Schrittenummer2head: # 2. Hausaufgabe
+
+----
+
+Schrittenummer2-1: Vier Wochen vor der Eignungsprüfung stellt die HfG eine Hausaufgabe online, die ihr vorab bearbeitet.
+
+----
+
+Schrittenummer3-1: 
+
+Die Mappe besteht aus 12 bis 15 Arbeiten. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.<br>
+Michael Götte, Professor und Leiter Grundlagen
+
+----
+
+Schrittenummer3-2: 
+
+Sigmar Willnauer, Professor Produkgestaltung
+Details zur Mappe KG und PG| Hausaufgabe
+Eure Mappen müssen mit Namen und Anschrift
+versehen werden.
+Mappenaufbau: Inhaltsverzeichnis | Hausaufgabe |
+ggf. Arbeitsproben
+Flächige Arbeiten dürfen nicht gerollt werden.
+Digitale Arbeiten müssen auf CD-ROM/DVD und
+gedruckt beiliegen.
+
+----
+
+Schrittenummer4head: # 4. Eignungsprüfung
+
+----
+
+Schrittenummer4-1: Einen ganzen Tag lang wollen wir dich bei der Eignungsprüfung kennenlernen. Zur Eignungsprüfung bringt ihr dann sowohl die Mappe (Kommunikations- und Produktgestaltung) als auch die bearbeitete Hausaufgabe (alle Bachelor Studiengänge) mit.
+
+----
+
+Schrittenummer4-2: Unsere Eignungsprüfung besteht dann aus zwei praktischen Aufgaben, die du vor Ort bearbeitest und dem Motivationsgespräch. Die Eignungsprüfung findet normalerweise im Dezember bzw. Juni statt. Den Termin erhaltet ihr per Post im Einladungsschreiben.
+
+----
+
+Schrittenummer5head: # 5. Motivationsgespräch
+
+----
+
+Schrittenummer5-1: Beim Motivationsgespräch im Rahmen der Eignungsprüfung stellst du Professoren und Studenten der HfG deine Hausaufgabe und deine Mappe vor.
+
+----
+
+Schrittenummer5-2: Außerdem interessiert uns natürlich, warum du an der HfG studieren möchtest und was deine Motivation ist.
+
+----
+
+Schrittenummer3head: # 3. Mappe
+
+----
+
+Schrittegeschaffthead: 
+
+# Geschafft!
+
+Wir melden uns so schnell wie möglich per Post mit deinen Ergebnissen. Semesterstart ist in der ersten Oktoberwoche und Mitte März.
