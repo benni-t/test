@@ -1,8 +1,0 @@
-{
-  "name": "gallery",
-  "description": "A gallery field for Kirby CMS",
-  "author": "Tim Ötting <tim@whateveryouremailaddresis.com>",
-  "license": "MIT",
-  "version": "1.1",
-  "type": "kirby-field"
-}
